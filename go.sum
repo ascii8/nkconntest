@@ -4,8 +4,8 @@ github.com/Microsoft/go-winio v0.6.0 h1:slsWYD/zyx7lCXoZVlvQrj0hPTM1HI4+v1sIda2y
 github.com/Microsoft/hcsshim v0.9.4 h1:mnUj0ivWy6UzbB1uLFqKR6F+ZyiDc7j4iGgHTpO+5+I=
 github.com/VividCortex/ewma v1.2.0 h1:f58SaIzcDXrSy3kWaHNvuJgJ3Nmz59Zji6XoJR/q1ow=
 github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d h1:licZJFw2RwpHMqeKTCYkitsPqHNxTmd4SNR5r94FGM8=
-github.com/ascii8/nakama-go v0.4.7 h1:ONbwefUD9LIcKoJ/C1JRfIXhPeRDZmr9MvNsQNsc2ho=
-github.com/ascii8/nakama-go v0.4.7/go.mod h1:Vj1maF6bGzeLRbWyApZk3daZuN0LTNq//RzhpSaYQPY=
+github.com/ascii8/nakama-go v0.5.0 h1:w3vtioimzVOZI7nLnOrpBd/6T8fq6CKJCMIqY56Ybbw=
+github.com/ascii8/nakama-go v0.5.0/go.mod h1:Vj1maF6bGzeLRbWyApZk3daZuN0LTNq//RzhpSaYQPY=
 github.com/ascii8/nktest v0.9.8 h1:+Gj1GOVHccqgd6MFyGL8B2foQzRmdQVwJl80dEvzy3w=
 github.com/blang/semver v3.5.1+incompatible h1:cQNTCjp13qL8KC3Nbxr/y2Bqb63oX6wdnnjpJbkM4JQ=
 github.com/blang/semver/v4 v4.0.0 h1:1PFHFE6yCCTv8C1TeyNNarDzntLi7wMI5i/pzqYIsAM=
